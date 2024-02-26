@@ -1,0 +1,4 @@
+player    4500    *
+player    800    *
+player    4350    *
+player    1050    *
